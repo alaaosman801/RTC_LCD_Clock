@@ -1,1 +1,2 @@
-# RTC_LCD_Cloclk
+# RTC_LCD_Clock
+#Project Type: arduino
